@@ -30,3 +30,7 @@ Plans/bugs:
 -JTextFields do not focus properly in settings(also sometimes causes game to run slowly)
 
 -Tidy up code and game aesthetics
+
+Notices:
+
+-remember to change file pathway before running
