@@ -10,6 +10,7 @@ Game Features:
 Purpose:
 -Using threads
 -JFrame objects
+-enums
 
 Plans/bugs:
 -Add more options whilst game is paused
